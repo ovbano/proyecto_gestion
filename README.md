@@ -1,0 +1,1 @@
+¡Bienvenido al repositorio del Proyecto de Gestión de Transporte Urbano! Este proyecto tiene como objetivo principal facilitar la gestión eficiente de las operaciones de una cooperativa de transporte urbano mediante una robusta base de datos relacional.
